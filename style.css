@@ -1,0 +1,120 @@
+@media screen and (min-width: 601px) {
+	h1 {
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 600;
+		font-size: 80px;
+		text-align: center;
+		margin-bottom: -15px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	h1 {
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 600;
+		font-size: 58px;
+		text-align: center;
+		margin-bottom: -15px;
+	}
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 30px;
+	text-align: center;
+}
+
+#img-caption {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	text-align: center;
+}
+
+#tribute-info {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	text-align: center;
+}
+
+#image {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+}
+
+ul {
+	max-width: 550px;
+	margin: 0 auto 50px auto;
+	text-align: left;
+	line-height: 1.6;
+}
+
+h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 21px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+a {
+	color: #477ca7;
+}
+
+a:visited {
+	color: #74638f;
+}
+
+a:hover {
+	color: red;
+}
+
+@media screen and (min-width: 601px) {
+	#tribute-summary {
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 400;
+		font-size: 20px;
+		text-align: justify;
+		padding: 0px 40px 0px 40px;
+		line-height: 1.5;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#tribute-summary {
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 400;
+		font-size: 20px;
+		text-align: justify;
+		padding: 0px 10px 0px 10px;
+		line-height: 1.5;
+	}
+}
+
+footer {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	text-align: center;
+	margin-bottom: -15px;
+	background-color: black;
+	color: white;
+	padding: 5px 5px 5px 5px;
+}
+
+#image-grid {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.albums {
+	width: 280px;
+}
